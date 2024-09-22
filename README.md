@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+🔭 I’m currently learning **Automation Testing** 
 
-- 🌱 I’m currently learning **Data Structures and algorithnms and React.js .**
+- 🌱 I’m currently working as **Product Efficiency Engineer** in **MBB Labs Pvt. Ltd.**
 
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+👯 I’m looking to collaborate on **OpenSource Projects** 
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
