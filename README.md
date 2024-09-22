@@ -21,7 +21,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <a href="https://www.java.com" target="_blank"> <img src="https://imgs.search.brave.com/QCPQfGyIIFIUkeNA86eKdVcQmPqbY3rwMDZd2WNNJA8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iMTQ3/MjkyMy5zbXVzaGNk/bi5jb20vMTQ3Mjky/My93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8wMi9zZWxlbml1/bS13ZWJkcml2ZXIt/bG9nby5wbmc_bG9z/c3k9MCZzdHJpcD0x/JndlYnA9MQ"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://5.imimg.com/data5/QB/LQ/MY-53266557/c-programming-language-500x500.png" height="55px" width="55px"/> </a> 
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" height="55px" width="55px"/> </a> 
